@@ -9,7 +9,7 @@ How to connect the ip camera with Python
 •	Adapter
  
 <div id="badges">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"  width="200" height="200"/>
+  <img src="https://github.com/dariushkiani72/ip-camera-opencv/blob/main/item%20ip.jpg"  width="500" height="360"/>
 </div>
 
 How to connect:
